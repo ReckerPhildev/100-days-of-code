@@ -9,7 +9,6 @@
 **Link to work:**(https://www.hackerrank.com/domains/python?filters%5Bstatus%5D%5B%5D=unsolved&badge_type=python)
 
 ### Day 1: April 24, 2019 
-##### (delete me or comment me out)
 
 **Today's Progress**: I deconstructed google.com webpage and rebuild it
 
