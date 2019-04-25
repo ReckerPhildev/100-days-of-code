@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: April 23, 2019 
+### Day 1: April 23, 2019 
 
 **Today's Progress**: Started out with hackerank challenges, completed 2 python challenges successively.
 
@@ -8,21 +8,22 @@
 
 **Link to work:**(https://www.hackerrank.com/domains/python?filters%5Bstatus%5D%5B%5D=unsolved&badge_type=python)
 
-### Day 1: April 24, 2019 
+### Day 2: April 24, 2019 
 
-**Today's Progress**: I deconstructed google.com webpage and rebuild it
+**Today's Progress**: I started the imitation of google.com homepage. Struggled a bit with Css elements, DIV element, ids and classes in css. Am glad to have a better understanding about them. I've done the buttons, image and navbar
 
-**Thoughts**: It's been an amazing experience since I've struggled with front end, but I have new and in depth insight about it
+**Thoughts**: It's been an amazing experience so far, I've always struggled with front end and putting it a way until now,  am glad I have new and in depth insight about it since it's not as bad as I thought
 
-**Link(s) to work**: [google-homepage](http://github.com/ReckerPhildev/google-homepage
+**Link(s) to work**: https://reckerphildev.github.io/google-homepage/
 
 
-### Day 1: June 27, Monday
+### Day 3: April 25th, 2019
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: I've gone through some exercises on HackerRank.
 
 **Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
 
+
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. Simple Array Sum problem(https://www.hackerrank.com/challenges/simple-array-sum/problem)
+2. Compare the triplets problem(https://www.hackerrank.com/challenges/compare-the-triplets/problem)
