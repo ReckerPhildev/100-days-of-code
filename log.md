@@ -31,6 +31,13 @@
 ### Day 4: April 26th, 2019
 
 **Today's progress** I've been working on css div, navbar and Chrome developers tools. Learnt how to work with devtools and making good designs with it. 
+I also did Ok Google! speedrun on qwiklabs where I learnt the following:
+Google Assistant: Customizing template
+Google Assistant:Build an application with Dialogflow and Cloud Functions
+Google Assistant: I build a Youtube Enterteinment App
+Google Assistant: Build a restaurant locator with the places API
+
 
 **Link(s) to work**
 google-homepage: https://reckerphildev.github.io/google-homepage/
+Qwiklabs: https://www.qwiklabs.com/quests/61
