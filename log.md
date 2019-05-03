@@ -54,6 +54,54 @@ I must admit that front end has been wuite a hastle for me and it has not always
 **Link to Work**
 https://reckerphildev.github.io/google-homepage/
 
+### Day 7: April 29th, 2019
+**Today's Progress**
+I managed to solve Sock Merchant on @HackerRank. It took me a lot of time to figure a way out.
+
+**Link to Work**
+https://www.hackerrank.com/challenges/sock-merchant/problem?utm_campaign=social-buttons&utm_medium=twitter&utm_source=challenge
+
+### Day 8: April 30th, 2019
+**Today's Progress**
+I've been working on css best practices, I learnt methods to ensure browser & device compatibility, degrading gracefully for older browsers and displays and ways to ensure accessibility. However what stood out the most was file compression for improving speed
+
+**Link to Work**
+http://www.htmldog.com/guides/css/intermediate/
+
+### Day 9: May 1, 2019
+**Today's Progress**
+I've been learning enough git to be dangerous... that's actually a book to learning git which has really gotten me upto speed with git, I have been using it though today the learning was quite intensive and I learned the git workflow with the git three stages, adding html tags and structure, Rebasing and Recovering from errors
+**Link to Work**
+https://www.learnenough.com/git-tutorial/getting_started
+
+### Day 10: May 2, 2019
+**Today's Progress**
+Today was a real struggle with the Counting Valleys problem at hackerrank, I'll share the link below. Though am still working on it until I get it right.
+
+**Link to Work**
+https://www.hackerrank.com/challenges/counting-valleys/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup
+
+
+### Day 10: May 3, 2019
+**Today's Progress**
+I've been learning fundamentals of ruby on rails. I still haven't gotten too deep with it but once I will, I'll share my insights
+
+**Link to Work**
+https://github.com/ReckerPhildev/Rubyrails
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
