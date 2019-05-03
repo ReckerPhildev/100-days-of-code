@@ -6,6 +6,9 @@
 #### Start Date
 April 23rd 2019
 
+### End Date
+July 31st 2019
+
 ## Additional Rules
 1. I will tweet about my progress every day -> using the hashtag #100DaysOfCode
 2. If I code at work, that time won't count towards the challenge.
